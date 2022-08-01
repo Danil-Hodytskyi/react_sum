@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Danil-Hodytskyi/react_sum/static/js/main.e3ccdd22.chunk.js",
+    "main.js.map": "/Danil-Hodytskyi/react_sum/static/js/main.e3ccdd22.chunk.js.map",
+    "runtime-main.js": "/Danil-Hodytskyi/react_sum/static/js/runtime-main.e2b93fee.js",
+    "runtime-main.js.map": "/Danil-Hodytskyi/react_sum/static/js/runtime-main.e2b93fee.js.map",
+    "static/js/2.0b13b41e.chunk.js": "/Danil-Hodytskyi/react_sum/static/js/2.0b13b41e.chunk.js",
+    "static/js/2.0b13b41e.chunk.js.map": "/Danil-Hodytskyi/react_sum/static/js/2.0b13b41e.chunk.js.map",
+    "index.html": "/Danil-Hodytskyi/react_sum/index.html",
+    "static/js/2.0b13b41e.chunk.js.LICENSE.txt": "/Danil-Hodytskyi/react_sum/static/js/2.0b13b41e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2b93fee.js",
+    "static/js/2.0b13b41e.chunk.js",
+    "static/js/main.e3ccdd22.chunk.js"
+  ]
+}
